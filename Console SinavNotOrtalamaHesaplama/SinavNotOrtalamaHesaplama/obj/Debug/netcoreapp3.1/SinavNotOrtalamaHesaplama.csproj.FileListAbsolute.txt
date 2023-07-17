@@ -1,0 +1,27 @@
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.exe
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.deps.json
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.runtimeconfig.json
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.runtimeconfig.dev.json
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.dll
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.pdb
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.csprojAssemblyReference.cache
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.AssemblyInfoInputs.cache
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.AssemblyInfo.cs
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.dll
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.pdb
+D:\Atolye\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.genruntimeconfig.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.exe
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.deps.json
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.runtimeconfig.json
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.runtimeconfig.dev.json
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.dll
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\bin\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.pdb
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.csproj.AssemblyReference.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.AssemblyInfoInputs.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.AssemblyInfo.cs
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.dll
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.pdb
+D:\MCBÜ 1.GÜZ DÖNEMİ\MCBÜ Programlama Temelleri\SinavNotOrtalamaHesaplama\SinavNotOrtalamaHesaplama\obj\Debug\netcoreapp3.1\SinavNotOrtalamaHesaplama.genruntimeconfig.cache
